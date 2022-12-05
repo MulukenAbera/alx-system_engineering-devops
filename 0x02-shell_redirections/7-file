@@ -1,4 +1,4 @@
 #!/bin/bash
-var=$'\*\\\\\'"Best School"\\\'\\\\*$\\?\\*\\*\\*\\*\\*:)';echo "$var"
+cat > se.txt
 
-\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) touch "$(< se.txt )"
